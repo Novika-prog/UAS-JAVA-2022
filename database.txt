@@ -1,0 +1,4 @@
+TobiasD'Caprio_Permata Sakti_Permata Sakti1,Permata Sakti,Tobias D'Caprio,Data Science,Universitas Malang
+Jobs_International Exchange_International Exchange1,International Exchange,Jobs,IT for Business,Harvard University
+Novika_Kampus Merdeka_1,Kampus Merdeka,Novika,Sistem Informasi,Universitas Merdeka Malang
+Leonardo_International Exchange_1,International Exchange,Leonardo,Computer for Science,University of California
